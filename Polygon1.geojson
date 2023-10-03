@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Polygon1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null, "Terminal": null, "Terminal1": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -71.019919730236523, 42.364267960559239 ], [ -71.018555072763192, 42.364573934837679 ], [ -71.017185922045698, 42.361084745795488 ], [ -71.017682848998618, 42.360165143991999 ], [ -71.018842768362759, 42.360773641414617 ], [ -71.019919730236523, 42.364267960559239 ] ] ] ] } },
+{ "type": "Feature", "properties": { "id": null, "Terminal": null, "Terminal1": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ ] } }
+]
+}
